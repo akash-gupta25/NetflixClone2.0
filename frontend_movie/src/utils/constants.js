@@ -1,2 +1,2 @@
-export const API_KEY = "bc54f9df5add8c0539b307115e67e694";
+export const API_KEY = "de6ce1ee9c34309d98ffd0680fdc37d3";
 export const TMDB_BASE_URL = "https://api.themoviedb.org/3";
