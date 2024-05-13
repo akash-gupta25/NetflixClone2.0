@@ -12,7 +12,7 @@ const initialState = {
   genres: [],
 };
 
-const REACT_APP_BACKEND_URL = "https://backend-movie-mauve.vercel.app";
+const REACT_APP_BACKEND_URL = "https://netflix-clone2-0-backend.vercel.app";
 
 export const getGenres = createAsyncThunk("netflix/genres", async () => {
   const {
